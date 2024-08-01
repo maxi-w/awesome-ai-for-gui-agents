@@ -53,6 +53,12 @@ The RICO Semantics dataset consists of around 500k human annotations on the RICO
 
 https://github.com/google-research-datasets/rico_semantics
 
+### ScreenQA datasets
+
+The dataset contains ~86K questions and answers for ~35K screenshots from the public Rico dataset.
+
+https://github.com/google-research-datasets/screen_qa
+
 ## Research Papers
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
@@ -70,6 +76,10 @@ https://github.com/google-research-datasets/rico_semantics
 [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) (10/2023)
 
 [Towards Better Semantic Understanding of Mobile Interfaces](https://arxiv.org/abs/2210.02663) (10/2022)
+
+[ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots](https://arxiv.org/abs/2209.08199) (07/2024)
+
+[ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://arxiv.org/abs/2402.04615) (07/2024)
 
 
 ## Blogs
