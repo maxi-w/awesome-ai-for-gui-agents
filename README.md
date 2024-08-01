@@ -4,6 +4,9 @@ This list features awesome projects, models and datasets around AI on graphical 
 
 ## Models
 
+### CogAgent
+https://github.com/THUDM/CogVLM
+
 ### Fuyu-8B
 https://www.adept.ai/blog/fuyu-8b
 
@@ -81,5 +84,6 @@ https://github.com/google-research-datasets/screen_qa
 
 [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://arxiv.org/abs/2402.04615) (07/2024)
 
+[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) (12/2023)
 
 ## Blogs
