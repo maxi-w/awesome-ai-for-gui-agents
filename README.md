@@ -47,6 +47,12 @@ Android in the Wild (AitW) is a large-scale dataset for mobile device control th
 
 https://github.com/google-research/google-research/tree/master/android_in_the_wild
 
+### RICO Semantics
+
+The RICO Semantics dataset consists of around 500k human annotations on the RICO dataset identifying various icons based on their shapes and semantics, and associations between selected general UI elements (like icons, form fields, radio buttons, text inputs) and their text labels. The annotations also include human annotated bounding boxes which are more accurate and have a greater coverage of UI elements than using bounding boxes from the view hierarchy.
+
+https://github.com/google-research-datasets/rico_semantics
+
 ## Research Papers
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
@@ -62,6 +68,8 @@ https://github.com/google-research/google-research/tree/master/android_in_the_wi
 [From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces](https://arxiv.org/abs/2306.00245) (12/2023)
 
 [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) (10/2023)
+
+[Towards Better Semantic Understanding of Mobile Interfaces](https://arxiv.org/abs/2210.02663) (10/2022)
 
 
 ## Blogs
