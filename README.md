@@ -1,6 +1,14 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # Awesome AI for the Graphical User Interface Domain
 
 This list features awesome projects, models and datasets around AI on graphical user interfaces.
+
+## Contents
+
+* [Models](#Models)
+* [Datasets](#Datasets)
+* [Research Papers](#Research-Papers)
 
 ## Models
 
