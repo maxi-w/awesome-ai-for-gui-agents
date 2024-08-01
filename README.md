@@ -14,6 +14,9 @@ https://github.com/google-research/pix2struct
 
 https://huggingface.co/google/pix2struct-base
 
+### Pix2Act
+https://github.com/google-deepmind/pix2act
+
 ## Datasets
 
 ### Rico: A Mobile App Dataset for Building Data-Driven Design Applications
@@ -49,6 +52,8 @@ https://github.com/X-LANCE/META-GUI-baseline
 [VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling](https://arxiv.org/abs/2112.05692) (12/2021)
 
 [META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://arxiv.org/abs/2205.11029) (05/2022)
+
+[From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces](https://arxiv.org/abs/2306.00245) (12/2023)
 
 
 ## Blogs
