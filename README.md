@@ -41,6 +41,12 @@ https://huggingface.co/datasets/X-LANCE/META-GUI
 
 https://github.com/X-LANCE/META-GUI-baseline
 
+### Android in the Wild (AitW)
+
+Android in the Wild (AitW) is a large-scale dataset for mobile device control that contains human-collected demonstrations of natural language instructions, user interface (UI) screens, and actions for a variety of human tasks.
+
+https://github.com/google-research/google-research/tree/master/android_in_the_wild
+
 ## Research Papers
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
@@ -54,6 +60,8 @@ https://github.com/X-LANCE/META-GUI-baseline
 [META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://arxiv.org/abs/2205.11029) (05/2022)
 
 [From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces](https://arxiv.org/abs/2306.00245) (12/2023)
+
+[Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) (10/2023)
 
 
 ## Blogs
