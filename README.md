@@ -28,6 +28,16 @@ Two datasets that are extended from the public Rico dataset, which contains 72k 
 1. In AppSim, each datapoint contains two UIs of similar category and the annotation of two semantically similar UI elements on them, such as a “Menu” buttons that appear on two UIs.
 2. In RefExp, each datapoint contains a UI and a referring expression of a UI element on it, such as “Red button on the top”.
 
+### META-GUI
+
+META-GUI is a dataset for training a Multi-modal convErsaTional Agent on mobile GUI. It consists of 1125 dialogues, 4684 dialogue turns and 18337 data points in total. Each data point contains screenshot history, action history, dialogue history, items appeared on the current screen and actions to be performed.
+
+https://x-lance.github.io/META-GUI-Leaderboard/
+
+https://huggingface.co/datasets/X-LANCE/META-GUI
+
+https://github.com/X-LANCE/META-GUI-baseline
+
 ## Research Papers
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
