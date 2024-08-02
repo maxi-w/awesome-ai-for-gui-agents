@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome AI for the Graphical User Interface Domain
+# AI for the Graphical User Interface Domain
 
 This list features awesome projects, models and datasets around AI on graphical user interfaces.
 
@@ -95,5 +95,3 @@ https://github.com/google-research-datasets/screen_qa
 [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) (12/2023)
 
 [ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (01/2021)
-
-## Blogs
