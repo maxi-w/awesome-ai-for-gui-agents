@@ -28,6 +28,11 @@ https://huggingface.co/google/pix2struct-base
 ### Pix2Act
 https://github.com/google-deepmind/pix2act
 
+### UIED (UI Element Detection)
+https://github.com/MulongXie/UIED
+
+https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface
+
 ## Datasets
 
 ### Rico: A Mobile App Dataset for Building Data-Driven Design Applications
@@ -97,3 +102,10 @@ https://github.com/google-research-datasets/screen_qa
 [ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (01/2021)
 
 [Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels](https://arxiv.org/abs/2101.04893) (01/2021)
+
+[Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?](https://arxiv.org/abs/2008.05132) (09/2020)
+
+[UI Semantic Group Detection: Grouping UI Elements with Similar Semantics in Mobile Graphical User Interface](https://arxiv.org/abs/2403.04984v1) (03/2024)
+
+[MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling](https://arxiv.org/abs/2405.07090) (05/2024)
+
