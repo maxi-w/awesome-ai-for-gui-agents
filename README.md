@@ -75,6 +75,16 @@ The dataset contains ~86K questions and answers for ~35K screenshots from the pu
 
 https://github.com/google-research-datasets/screen_qa
 
+### UISketch dataset
+A dataset of 19,000 hand-drawn sketches of 21 UI element categories.
+
+https://www.kaggle.com/datasets/vinothpandian/uisketch/data
+
+### LightShot dataset
+13,000 Screen Caps Scraped from prnt.sc.
+
+https://www.kaggle.com/datasets/datasnaek/lightshot
+
 ## Research Papers
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
