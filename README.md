@@ -99,6 +99,12 @@ https://huggingface.co/datasets/agent-studio/GroundUI-1K
 
 https://huggingface.co/datasets/agent-studio/GroundUI-18K
 
+### ScreenSpot
+
+ScreenSpot is an evaluation benchmark for GUI grounding, comprising over 1200 instructions from iOS, Android, macOS, Windows and Web environments, along with annotated element types (Text or Icon/Widget).
+
+https://github.com/njucckevin/SeeClick
+
 ## Research Papers
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
@@ -135,3 +141,4 @@ https://huggingface.co/datasets/agent-studio/GroundUI-18K
 
 [AgentStudio: A Toolkit for Building General Virtual Agents](https://arxiv.org/abs/2403.17918#) (03/2024)
 
+[SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935) (02/2024)
