@@ -33,6 +33,10 @@ https://github.com/MulongXie/UIED
 
 https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface
 
+### SeeClick
+
+https://github.com/njucckevin/SeeClick
+
 ## Datasets
 
 ### Rico: A Mobile App Dataset for Building Data-Driven Design Applications
