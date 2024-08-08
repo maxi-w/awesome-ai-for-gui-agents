@@ -85,6 +85,20 @@ https://www.kaggle.com/datasets/vinothpandian/uisketch/data
 
 https://www.kaggle.com/datasets/datasnaek/lightshot
 
+### WaveUI-25k
+
+This dataset contains 25k examples of labeled UI elements. It is a subset of a collection of ~80k preprocessed examples assembled from the following sources: WebUI, RoboFlow, GroundUI-18k.
+
+https://huggingface.co/datasets/agentsea/wave-ui-25k
+
+[Dataset Viewer](https://huggingface.co/spaces/agentsea/wave-ui-viz)
+
+### GroundUI-1k & GroundUI-18k
+
+https://huggingface.co/datasets/agent-studio/GroundUI-1K
+
+https://huggingface.co/datasets/agent-studio/GroundUI-18K
+
 ## Research Papers
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
@@ -118,4 +132,6 @@ https://www.kaggle.com/datasets/datasnaek/lightshot
 [UI Semantic Group Detection: Grouping UI Elements with Similar Semantics in Mobile Graphical User Interface](https://arxiv.org/abs/2403.04984v1) (03/2024)
 
 [MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling](https://arxiv.org/abs/2405.07090) (05/2024)
+
+[AgentStudio: A Toolkit for Building General Virtual Agents](https://arxiv.org/abs/2403.17918#) (03/2024)
 
