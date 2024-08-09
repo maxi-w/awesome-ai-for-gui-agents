@@ -37,6 +37,12 @@ https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface
 
 https://github.com/njucckevin/SeeClick
 
+### ScreenAgent
+
+CogAgent fine-tuned on the new ScreenAgent dataset.
+
+https://github.com/niuzaisheng/ScreenAgent
+
 ## Datasets
 
 ### Rico: A Mobile App Dataset for Building Data-Driven Design Applications
@@ -109,6 +115,14 @@ ScreenSpot is an evaluation benchmark for GUI grounding, comprising over 1200 in
 
 https://github.com/njucckevin/SeeClick
 
+### ScreenAgent
+
+Collected 39 sub-task categories across 6 themes from Linux and Windows operating systems. It includes 273 complete task sessions, with 203 sessions (3005 screenshots) for training and 70 sessions (898 screenshots) for testing.
+
+https://github.com/niuzaisheng/ScreenAgent
+
+https://arxiv.org/abs/2402.07945
+
 ## Research Papers
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
@@ -146,3 +160,5 @@ https://github.com/njucckevin/SeeClick
 [AgentStudio: A Toolkit for Building General Virtual Agents](https://arxiv.org/abs/2403.17918#) (03/2024)
 
 [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935) (02/2024)
+
+[ScreenAgent: A Vision Language Model-driven Computer Control Agent](https://arxiv.org/abs/2402.07945) (02/2024)
