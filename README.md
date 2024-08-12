@@ -133,42 +133,42 @@ https://huggingface.co/datasets/shuaishuaicdp/GUI-World
 
 ## Research Papers
 
-[GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819) (06/2024)
-
-[UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
-
-[Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding](https://arxiv.org/abs/2210.03347) (06/2023)
-
-[Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719) (04/2024)
-
-[VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling](https://arxiv.org/abs/2112.05692) (12/2021)
-
-[META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://arxiv.org/abs/2205.11029) (05/2022)
-
-[From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces](https://arxiv.org/abs/2306.00245) (12/2023)
-
-[Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) (10/2023)
-
-[Towards Better Semantic Understanding of Mobile Interfaces](https://arxiv.org/abs/2210.02663) (10/2022)
+[ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://arxiv.org/abs/2402.04615) (07/2024)
 
 [ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots](https://arxiv.org/abs/2209.08199) (07/2024)
 
-[ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://arxiv.org/abs/2402.04615) (07/2024)
-
-[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) (12/2023)
-
-[ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (01/2021)
-
-[Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels](https://arxiv.org/abs/2101.04893) (01/2021)
-
-[Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?](https://arxiv.org/abs/2008.05132) (09/2020)
-
-[UI Semantic Group Detection: Grouping UI Elements with Similar Semantics in Mobile Graphical User Interface](https://arxiv.org/abs/2403.04984v1) (03/2024)
+[GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819) (06/2024)
 
 [MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling](https://arxiv.org/abs/2405.07090) (05/2024)
+
+[Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719) (04/2024)
+
+[UI Semantic Group Detection: Grouping UI Elements with Similar Semantics in Mobile Graphical User Interface](https://arxiv.org/abs/2403.04984v1) (03/2024)
 
 [AgentStudio: A Toolkit for Building General Virtual Agents](https://arxiv.org/abs/2403.17918#) (03/2024)
 
 [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935) (02/2024)
 
 [ScreenAgent: A Vision Language Model-driven Computer Control Agent](https://arxiv.org/abs/2402.07945) (02/2024)
+
+[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) (12/2023)
+
+[From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces](https://arxiv.org/abs/2306.00245) (12/2023)
+
+[Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) (10/2023)
+
+[Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding](https://arxiv.org/abs/2210.03347) (06/2023)
+
+[Towards Better Semantic Understanding of Mobile Interfaces](https://arxiv.org/abs/2210.02663) (10/2022)
+
+[META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://arxiv.org/abs/2205.11029) (05/2022)
+
+[VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling](https://arxiv.org/abs/2112.05692) (12/2021)
+
+[UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
+
+[ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces](https://arxiv.org/abs/2012.12350) (01/2021)
+
+[Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels](https://arxiv.org/abs/2101.04893) (01/2021)
+
+[Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?](https://arxiv.org/abs/2008.05132) (09/2020)
