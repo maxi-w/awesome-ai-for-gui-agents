@@ -13,9 +13,15 @@ This list features awesome models, datasets and research papers around building 
 ## Models
 
 ### CogAgent
+
+CogAgent is an open-source visual language model improved based on CogVLM. CogAgent-18B has 11 billion visual parameters and 7 billion language parameters, supporting image understanding at a resolution of 1120*1120. On top of the capabilities of CogVLM, it further possesses GUI image Agent capabilities.
+
 https://github.com/THUDM/CogVLM
 
 ### Fuyu-8B
+
+Fuyu-8B is a multi-modal text and image transformer trained by Adept AI. Architecturally Fuyu is a vanilla decoder-only transformer supporting arbitrary image resolutions.
+
 https://www.adept.ai/blog/fuyu-8b
 
 https://huggingface.co/adept/fuyu-8b
