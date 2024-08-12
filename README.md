@@ -123,7 +123,17 @@ https://github.com/niuzaisheng/ScreenAgent
 
 https://arxiv.org/abs/2402.07945
 
+### GUI-World
+
+A comprehensive GUI dataset comprising over 12,000 videos specifically designed to assess and improve the GUI understanding capabilities of MLLMs, spanning a range of categories and scenarios, including desktop, mobile, and extended reality (XR), and representing the first GUI-oriented instruction-tuning dataset in the video domain.
+
+https://gui-world.github.io
+
+https://huggingface.co/datasets/shuaishuaicdp/GUI-World
+
 ## Research Papers
+
+[GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819) (06/2024)
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
 
