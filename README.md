@@ -1,8 +1,6 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# AI for GUI Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# AI for the Graphical User Interface Domain
-
-This list features awesome projects, models and datasets around AI on graphical user interfaces.
+This list features awesome models, datasets and research papers around building AI based GUI agents.
 
 ## Contents
 
