@@ -24,12 +24,12 @@ Fuyu-8B is a multi-modal text and image transformer trained by Adept AI. Archite
 
 https://www.adept.ai/blog/fuyu-8b
 
-https://huggingface.co/adept/fuyu-8b
+[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg">](https://huggingface.co/adept/fuyu-8b)
 
 ### Pix2Struct
 https://github.com/google-research/pix2struct
 
-https://huggingface.co/google/pix2struct-base
+[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg">](https://huggingface.co/google/pix2struct-base)
 
 ### Pix2Act
 https://github.com/google-deepmind/pix2act
