@@ -69,7 +69,7 @@ META-GUI is a dataset for training a Multi-modal convErsaTional Agent on mobile 
 
 https://x-lance.github.io/META-GUI-Leaderboard/
 
-https://huggingface.co/datasets/X-LANCE/META-GUI
+[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md.svg">](https://huggingface.co/datasets/X-LANCE/META-GUI)
 
 https://github.com/X-LANCE/META-GUI-baseline
 
@@ -105,15 +105,15 @@ https://www.kaggle.com/datasets/datasnaek/lightshot
 
 This dataset contains 25k examples of labeled UI elements. It is a subset of a collection of ~80k preprocessed examples assembled from the following sources: WebUI, RoboFlow, GroundUI-18k.
 
-https://huggingface.co/datasets/agentsea/wave-ui-25k
+[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md.svg">](https://huggingface.co/datasets/agentsea/wave-ui-25k)
 
 [Dataset Viewer](https://huggingface.co/spaces/agentsea/wave-ui-viz)
 
 ### GroundUI-1k & GroundUI-18k
 
-https://huggingface.co/datasets/agent-studio/GroundUI-1K
+[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md.svg">](https://huggingface.co/datasets/agent-studio/GroundUI-1K)
 
-https://huggingface.co/datasets/agent-studio/GroundUI-18K
+[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md.svg">](https://huggingface.co/datasets/agent-studio/GroundUI-18K)
 
 ### ScreenSpot
 
@@ -135,7 +135,7 @@ A comprehensive GUI dataset comprising over 12,000 videos specifically designed 
 
 https://gui-world.github.io
 
-https://huggingface.co/datasets/shuaishuaicdp/GUI-World
+[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md.svg">](https://huggingface.co/datasets/shuaishuaicdp/GUI-World)
 
 ### WebSRC
 
@@ -145,8 +145,7 @@ https://arxiv.org/abs/2101.09465
 
 https://github.com/X-LANCE/WebSRC-Baseline
 
-https://huggingface.co/datasets/rootsautomation/websrc
-
+[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md.svg">](https://huggingface.co/datasets/rootsautomation/websrc)
 
 
 ## Research Papers
