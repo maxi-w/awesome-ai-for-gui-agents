@@ -137,6 +137,18 @@ https://gui-world.github.io
 
 https://huggingface.co/datasets/shuaishuaicdp/GUI-World
 
+### WebSRC
+
+WebSRC consists of 400K question-answer pairs, which are collected from 6.4K web pages. Along with the QA pairs, corresponding HTML source code, screenshots, and metadata are also provided in our dataset. Each question in WebSRC requires a certain structural understanding of a web page to answer, and the answer is either a text span on the web page or yes/no.
+
+https://arxiv.org/abs/2101.09465
+
+https://github.com/X-LANCE/WebSRC-Baseline
+
+https://huggingface.co/datasets/rootsautomation/websrc
+
+
+
 ## Research Papers
 
 [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://arxiv.org/abs/2402.04615) (07/2024)
@@ -170,6 +182,8 @@ https://huggingface.co/datasets/shuaishuaicdp/GUI-World
 [META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://arxiv.org/abs/2205.11029) (05/2022)
 
 [VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling](https://arxiv.org/abs/2112.05692) (12/2021)
+
+[WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://arxiv.org/abs/2101.09465) (11/2021)
 
 [UIBert: Learning Generic Multimodal Representations for UI Understanding](https://arxiv.org/abs/2107.13731) (07/2021)
 
