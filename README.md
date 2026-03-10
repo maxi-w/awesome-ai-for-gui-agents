@@ -49,6 +49,12 @@ CogAgent fine-tuned on the new ScreenAgent dataset.
 
 https://github.com/niuzaisheng/ScreenAgent
 
+### Lumen
+
+A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support (Anthropic, Google).
+
+https://github.com/omxyz/lumen
+
 ## Datasets
 
 ### Rico: A Mobile App Dataset for Building Data-Driven Design Applications
