@@ -129,6 +129,14 @@ https://github.com/niuzaisheng/ScreenAgent
 
 https://arxiv.org/abs/2402.07945
 
+### ClawBench
+
+ClawBench is a real-world browser-agent benchmark with 153 everyday tasks spanning 144 live websites and 15 life categories. It evaluates agents in isolated browser environments and records task outcomes together with multi-layer execution traces, including screenshots, browser actions, HTTP traffic, and agent messages.
+
+https://github.com/reacher-z/ClawBench
+
+https://claw-bench.com/
+
 ### GUI-World
 
 A comprehensive GUI dataset comprising over 12,000 videos specifically designed to assess and improve the GUI understanding capabilities of MLLMs, spanning a range of categories and scenarios, including desktop, mobile, and extended reality (XR), and representing the first GUI-oriented instruction-tuning dataset in the video domain.
