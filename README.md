@@ -1,5 +1,6 @@
 # AI for GUI Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Open-source macOS menu bar AI agent: shake cursor to summon an overlay that sees your screen and can click, type, and act.
 This list features awesome models, datasets and research papers around building AI based GUI agents.
 
 ![An Image of a robot sitting in front of a screen, typing something on the keyboard.](./assets/image.webp)
